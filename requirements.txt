@@ -1,4 +1,4 @@
 aiohttp>=3.1.9,<4
 pycryptodome>=3.21.0,==3.21.*
 async-class>=0.5.0,==0.5.*
-voluptuous>=0.15.2,<0.16.*
+voluptuous>=0.15.2,<0.17
